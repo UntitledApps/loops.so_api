@@ -1,8 +1,8 @@
-## 0.04
+## 0.0.4
 
 - Huge Change! The package now serves the Loops API and not the Audienceful one
 
-## 0.03
+## 0.0.3
 
 - Fixed API key not working
 

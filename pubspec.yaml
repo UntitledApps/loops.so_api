@@ -2,18 +2,16 @@ name: loops_api
 description: Unofficial, up to date Loops.so API for Dart and Flutter.
 version: 0.0.4
 homepage: https://untitledapps.webflow.io
+repository: https://github.com/UntitledApps/loops.so_api
 
 environment:
   sdk: ">=3.1.0 <4.0.0"
   flutter: ">=1.17.0"
 
-
 dependencies:
   dio: ^5.3.4
   flutter:
     sdk: flutter
-  http: ^1.1.0
-  shared_preferences: ^2.0.8
 
 dev_dependencies:
   flutter_test:
